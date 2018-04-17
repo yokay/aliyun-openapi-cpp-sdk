@@ -2,7 +2,9 @@
 
 欢迎使用阿里云开发者工具套件（SDK）。
 
-弱弱的插入优惠券，见谅！https://promotion.aliyun.com/ntms/act/ambassador/sharetouser.html?userCode=ypq5alve&utm_source=ypq5alve
+弱弱的插入优惠券，见谅！  
+
+https://promotion.aliyun.com/ntms/act/ambassador/sharetouser.html?userCode=ypq5alve&utm_source=ypq5alve
 
 适用于阿里云的 C++ SDK 提供了一组现代化的 C++（C++ 11 或更高版本）接口，让您不用复杂编程即可访问云服务器、云监控等多个阿里云服务。
 
